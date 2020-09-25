@@ -3,7 +3,7 @@
 #Rest opgaver findes i rest-opgaver
 
 Status: 
-Alt det obligatoriske skulle gerne være færdigt
+Der mangler pt Part 3 af restdelen
 
 Benjamin Iglesias
 cph-bc106@cphbusiness.dk
